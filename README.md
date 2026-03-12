@@ -1,4 +1,4 @@
-# JavaScript Object Reference Demo 🧠
+# Student-Profile-Manager 🧠
 
 A simple JavaScript project that demonstrates how **objects behave in memory** and how **object references work**.
 
